@@ -1,13 +1,13 @@
 # Atividades_Haskell
 Exercícios simples de Haskell
 
-# Lab1
+## Lab1
 
 - Elaborar a função invertelst, que recebe uma lista e retorna ela invertida.
 
 - Elaborar a função powlist, que recebe uma lista e um número, retornando uma lista com os elementos elevados ao número recebido.
 
-# Lab2
+## Lab2
 
 - Usando 'foldl' ou 'foldr', elabore a função 'somatorio', que recebe uma lista de números reais e devolve a soma dos números da lista. 
 P.ex.: somatorio [1.0, 2.2, 4.0] --> 7.2
@@ -25,7 +25,7 @@ Opcional: se desejar aumentar o grau de complexidade, utilize também uma funç�
 - Usando funções elaboradas nos exercícios anteriores (norma e produto interno), elabore uma função que receba duas listas de números reais (representando os vetores de palavras dos documentos) e calcule a similaridade entre esses dois documentos.
 Perceba que a definição leva em conta o cálculo do cosseno entre os dois vetores (detalhes em: http://en.wikipedia.org/wiki/Cosine_similarity). 
 
-# Lab3
+## Lab3
 
 - Elaborar a função powlist, que recebe uma lista e um número, retornando uma lista com os elementos elevados ao número recebido.-}
 --OBS: sempre chamar com acum=1
